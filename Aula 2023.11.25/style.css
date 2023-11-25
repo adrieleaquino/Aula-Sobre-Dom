@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(139, 18, 139);
+}
+
+div {
+    cursor: pointer;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    background-color: yellow;
+}
+
+.noite {
+    background-color: grey;
+}
